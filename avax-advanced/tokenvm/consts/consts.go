@@ -12,12 +12,9 @@ import (
 )
 
 const (
-	// TODO: choose a human-readable part for your hyperchain
-	HRP = "HVAXtoken"
-	// TODO: choose a name for your hyperchain
-	Name = "Hyper Avalanche Token"
-	// TODO: choose a token symbol
-	Symbol = "HAX"
+	HRP    = "HVAXtoken"
+	Name   = "Hyper Avalanche Token"
+	Symbol = "HVX"
 )
 
 var ID ids.ID
